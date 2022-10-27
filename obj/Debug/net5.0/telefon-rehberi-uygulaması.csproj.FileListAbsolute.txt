@@ -1,0 +1,16 @@
+C:\Users\PC\OneDrive\Masaüstü\telefon-rehberi-uygulaması\bin\Debug\net5.0\telefon-rehberi-uygulaması.exe
+C:\Users\PC\OneDrive\Masaüstü\telefon-rehberi-uygulaması\bin\Debug\net5.0\telefon-rehberi-uygulaması.deps.json
+C:\Users\PC\OneDrive\Masaüstü\telefon-rehberi-uygulaması\bin\Debug\net5.0\telefon-rehberi-uygulaması.runtimeconfig.json
+C:\Users\PC\OneDrive\Masaüstü\telefon-rehberi-uygulaması\bin\Debug\net5.0\telefon-rehberi-uygulaması.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Masaüstü\telefon-rehberi-uygulaması\bin\Debug\net5.0\telefon-rehberi-uygulaması.dll
+C:\Users\PC\OneDrive\Masaüstü\telefon-rehberi-uygulaması\bin\Debug\net5.0\telefon-rehberi-uygulaması.pdb
+C:\Users\PC\OneDrive\Masaüstü\telefon-rehberi-uygulaması\obj\Debug\net5.0\telefon-rehberi-uygulaması.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\telefon-rehberi-uygulaması\obj\Debug\net5.0\telefon-rehberi-uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Masaüstü\telefon-rehberi-uygulaması\obj\Debug\net5.0\telefon-rehberi-uygulaması.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\telefon-rehberi-uygulaması\obj\Debug\net5.0\telefon-rehberi-uygulaması.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Masaüstü\telefon-rehberi-uygulaması\obj\Debug\net5.0\telefon-rehberi-uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\telefon-rehberi-uygulaması\obj\Debug\net5.0\telefon-rehberi-uygulaması.dll
+C:\Users\PC\OneDrive\Masaüstü\telefon-rehberi-uygulaması\obj\Debug\net5.0\refint\telefon-rehberi-uygulaması.dll
+C:\Users\PC\OneDrive\Masaüstü\telefon-rehberi-uygulaması\obj\Debug\net5.0\telefon-rehberi-uygulaması.pdb
+C:\Users\PC\OneDrive\Masaüstü\telefon-rehberi-uygulaması\obj\Debug\net5.0\telefon-rehberi-uygulaması.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Masaüstü\telefon-rehberi-uygulaması\obj\Debug\net5.0\ref\telefon-rehberi-uygulaması.dll
